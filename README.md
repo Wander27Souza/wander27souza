@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=wander27rodrigues" alt="wander"/></p>
+  <p><img src="https://komarev.com/ghpvc/?username=Wander27Souza" alt="wander"/></p>
 </div>
 
 <div align="center">
@@ -38,9 +38,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/wander27souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wander27souza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wander27souza&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/Wander27Souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wander27Souza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wander27Souza&layout=compact&langs_count=7&theme=react"/>
 </p>
 
 
